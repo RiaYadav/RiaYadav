@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RiaYadav 
-- 👀 I’m interested in Python-Django development /Web-Development also Data Science
-- 🌱 I’m currently learning testing automation to improve the work level task and also improving my knowledge of data structures and algorithm
-- 💞️ I’m looking to collaborate on work related to above stated interests
+- 👀 I’m interested in Python- ML development, also Data Science.
+- 🌱 I’m currently upskilling in Data Science concepts also working as SDET in Infosys.
+- 💞️ I’m looking to collaborate on work related to above stated interests.
 - 📫 Mail me at riary1951999@gmail.com or ria.ry.1905@gmail.com
 
 <!---
